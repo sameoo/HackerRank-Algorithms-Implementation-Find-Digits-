@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the findDigits function below....
+    // Complete the findDigits function below...
     static int findDigits(int n) {
         int count=0,temp=n;
         while(n > 0){
